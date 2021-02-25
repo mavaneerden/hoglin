@@ -1,0 +1,4 @@
+package nbt
+
+class NBTPath {
+}
